@@ -1,1 +1,3 @@
 # Pruebas
+## estructura
+### software
